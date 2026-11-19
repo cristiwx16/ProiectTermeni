@@ -1,1 +1,1 @@
-'# ProiectTermeni' 
+Proiect Termeni 
